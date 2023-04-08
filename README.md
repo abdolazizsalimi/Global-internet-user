@@ -18,7 +18,7 @@ The data is sourced from the International Telecommunication Union (ITU) and the
 
 To use this dataset, you can clone this repository by running the following command in your terminal:
 
-`python  git clone https://github.com/abdolazizsalimi/Global-internet-user.git`
+`git clone https://github.com/abdolazizsalimi/Global-internet-user.git`
 
 
 
